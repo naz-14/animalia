@@ -3,9 +3,9 @@
     <h1 class="logo">Animalia</h1>
   </div>
   <div class="search-form__wrapper">
-    <form action="GET" class="search-form">
+    <form action="./animal.php" method="GET" class="search-form">
       <div class="search-form__input-wrapper">
-        <input type="text" name="search" id="search" class="search-form__input" placeholder="Buscar">
+        <input type="text" name="animal" id="search" class="search-form__input" placeholder="Buscar" autocomplete="off">
       </div>
       <div class="search-form__button-wrapper">
         <button type="submit" class="search-submit" id="searchSubmitBtn">-></button>

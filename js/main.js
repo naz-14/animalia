@@ -3,6 +3,7 @@ const bar = document.querySelector('.bar'),
       closeBtn = document.querySelector('.close-menu-btn'),
       hamburgerButton = document.querySelector('.hamburger-btn'),
       navegation = document.querySelector('.navegation');
+      searchForm = document.querySelector('.search-form')
 let barHeight = bar.clientHeight;
 
 
@@ -10,6 +11,7 @@ closeBtnWrapperHeight()
 
 window.addEventListener('resize', windowResize);
 
+searchForm.addEventListener('submit', validation);
 hamburgerButton.addEventListener('click', showNavMenu);
 navegation.addEventListener('click', clickInsideNavegation)
 
@@ -59,5 +61,13 @@ function menuClick(menuClicked) {
     menuClicked.classList.toggle('text-left');
   } else {
     window.location.href = menuClicked.href;
+  }
+}
+function validation(e) {
+  e.preventDefault();
+  const search = document.querySelector('#search').value.trim();
+  if (search !== '') {
+    searchForm.submit();
+    return
   }
 }

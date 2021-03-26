@@ -1,4 +1,3 @@
-
 html {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -17,6 +16,10 @@ body {
 }
 img {
     max-width: 100%;
+}
+form:active,form:focus,input:focus, input:active {
+    border: none;
+    outline: none;
 }
 .content {
     max-width: 34.7rem;

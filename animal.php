@@ -1,10 +1,13 @@
 <?php include 'inc/templates/header.php'?>
 
 <?php 
-  $animalSelected= $_GET['animal'];
+  $animalSelected= strtolower($_GET['animal']);
   $str = file_get_contents('data/animal.json');
   $data = json_decode($str);
   $data_section = $data->$animalSelected;
+  if ($data_section === NULL) {
+    header('Location:./notFound.php');
+  }
   $documentalStr = file_get_contents('data/documental.json');
   $documentalData = json_decode($documentalStr);
   $documentales = $documentalData->documentales;
