@@ -1,0 +1,40 @@
+{
+  "documentales": [
+    {
+      "title": "La vida marina",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/la-vida-marina.jpg",
+      "animal": []
+    },
+    {
+      "title": "Tiburones",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/tiburones.jpg",
+      "animal": []
+    },
+    {
+      "title": "Animales salvajes",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/animales-salvajes.jpg",
+      "animal": ["puma", "jaguar", "tigre", "zorro", "aguila", "oso"]
+    },
+    {
+      "title": "Animales sociales",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/animales-sociales.jpg",
+      "animal": ["perro", "gato", "vaca", "cerdo", "caballo"]
+    },
+    {
+      "title": "Animales asombrosos",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/animales-asombrosos.jpg",
+      "animal": ["tigre", "zorro", "jaguar", "aguila"]
+    },
+    {
+      "title": "El arca de la naturaleza",
+      "info": "Lorem ipsum dolor sit amet.",
+      "image": "img/documentales/el-arca-de-la-naturaleza.jpg",
+      "animal": []
+    }
+  ]
+}

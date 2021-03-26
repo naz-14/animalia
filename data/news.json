@@ -1,0 +1,37 @@
+{
+  "news": [
+    {
+      "title": "Koala en peligro de extinción",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed...",
+      "preview": "img/news/koala-min.jpg",
+      "preview_webp": "img/news/koala-min.webp",
+      "link": "koala"
+    },
+    {
+      "title": "Aumenta la caza del rinoceronte",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed...",
+      "preview": "img/news/rinoceronte-min.jpg",
+      "preview_webp": "img/news/rinoceronte-min.webp",
+      "link": "rinoceronte"
+    },
+    {
+      "title": "Aumentan ataques de tiburones contra humanos en Australia",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed...",
+      "preview": "img/news/tiburones-min.jpg",
+      "preview_webp": "img/news/tiburones-min.webp",
+      "link": "tiburones"
+    },
+    {
+      "title": "Continua rescate de animales",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed...",
+      "preview": "img/news/gatito-min.jpg",
+      "preview_webp": "img/news/gatito-min.webp",
+      "link": "rescate"
+    }
+  ],
+  "koala": {
+    "image": "img/news/koala.jpg",
+    "title": "Koala en peligro de extinción",
+    "info": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat <br><br> volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Lorem ipsum dolor sit amet"
+  }
+}

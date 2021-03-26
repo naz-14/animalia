@@ -1,0 +1,198 @@
+{
+  "estructura": {
+    "title": "Clasificacion de los animales",
+    "second_text": "Segun su estructura:",
+    "content" : [
+      {
+        "type": "big-image",
+        "image": "img/estructura/vertebrados-min.jpg",
+        "alt": "koala"
+      },
+      {
+        "type": "card",
+        "title": "Vartebrados",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh ",
+        "image": ""
+      },
+      {
+        "type": "card",
+        "title": "Mamiferos",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "image": "img/estructura/mamiferos-min.jpg"
+      },
+      {
+        "type": "card",
+        "title": "Peces",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "image": "img/estructura/peces-min.jpg"
+      },
+      {
+        "type": "card",
+        "title": "Reptiles",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "image": "img/estructura/reptiles-min.jpg"
+      },
+      {
+        "type": "card",
+        "title": "Aves",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "image": "img/estructura/aves-min.jpg"
+      },
+      {
+        "type": "card",
+        "title": "Anfibios",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit",
+        "image": "img/estructura/anfibios-min.jpg"
+      },
+      {
+        "type": "card",
+        "title": "Datos Curiosos",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh ",
+        "image": ""
+      },
+      {
+        "type": "big-image",
+        "image": "img/estructura/invertebrados-min.jpg",
+        "alt": "koala"
+      },
+      {
+        "type": "card",
+        "title": "Invertebrados",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim adLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad <br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh ",
+        "image": ""
+      }
+    ]
+  },
+  "domesticos": {
+    "title": "Animales",
+    "second_text": "Domesticos:",
+    "content": [
+      {
+        "type": "big-image",
+        "image": "img/domesticos/animales-domesticos.jpg",
+        "alt": "perro"
+      },
+      {
+        "type": "card",
+        "title": "Los anímales domésticos",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper",
+        "image": "",
+        "alt": "perro"
+      },
+      {
+        "type": "card",
+        "title": "Perro",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/perro.jpg",
+        "alt": "perro",
+        "link": "animal=perro"
+      },
+      {
+        "type": "card",
+        "title": "Gato",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/gato.jpg",
+        "alt": "perro",
+        "link": "animal=gato"
+      },
+      {
+        "type": "card",
+        "title": "Vaca",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/vaca.jpg",
+        "alt": "perro",
+        "link": "animal=vaca"
+      },
+      {
+        "type": "card",
+        "title": "Caballo",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/caballo.jpg",
+        "alt": "perro",
+        "link": "animal=caballo"
+      },
+      {
+        "type": "card",
+        "title": "Cerdo",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/cerdo.jpg",
+        "alt": "perro",
+        "link": "animal=cerdo"
+      },
+      {
+        "type": "card",
+        "title": "Conejo",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/domesticos/conejo.jpg",
+        "alt": "perro",
+        "link": "animal=conejo"
+      }
+    ]
+  },
+  "salvajes": {
+    "title": "Animales",
+    "second_text": "Salvajes:",
+    "content": [
+      {
+        "type": "big-image",
+        "image": "img/salvajes/leon-min.webp",
+        "alt": "perro"
+      },
+      {
+        "type": "card",
+        "title": "Los anímales salvajes",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorpervel illum dolore. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore.",
+        "image": "",
+        "alt": "perro"
+      },
+      {
+        "type": "card",
+        "title": "Puma",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/puma-min.webp",
+        "alt": "Puma",
+        "link": "animal=puma"
+      },
+      {
+        "type": "card",
+        "title": "Jaguar",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/jaguar-min.webp",
+        "alt": "Jaguar",
+        "link": "animal=jaguar"
+      },
+      {
+        "type": "card",
+        "title": "Tigre",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/tigre-min.webp",
+        "alt": "Tigre",
+        "link": "animal=tigre"
+      },
+      {
+        "type": "card",
+        "title": "Zorro",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/zorro-min.webp",
+        "alt": "Zorro",
+        "link": "animal=zorro"
+      },
+      {
+        "type": "card",
+        "title": "Aguila",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/aguila-min.webp",
+        "alt": "Aguila",
+        "link": "animal=aguila"
+      },
+      {
+        "type": "card",
+        "title": "Oso",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet",
+        "image": "img/salvajes/oso-min.webp",
+        "alt": "oso",
+        "link": "animal=oso"
+      }
+    ]
+  }
+}
